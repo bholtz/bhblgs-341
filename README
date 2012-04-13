@@ -1,0 +1,23 @@
+By week 5 we want to have clusters and some stories to tell.
+Plot the hell out of each feature that we want to use
+dump into hive
+pick the features we want
+write some hive queries to get histograms
+get a first Hive example running by the end of Friday
+Normalize / Preprocess features
+fit to [-1,1]?
+log, sqrt?
+throw away outliers?
+ready to meet with Jeff and Andreas by 4/19
+Ask Jeff about these strategies on Friday, 4/13
+Bucket engagements by session
+should be a simple hive job
+Decay sessions by timestamp
+look into how to decay values?
+trial and error
+Cluster!
+k-means?
+hierarchical?
+EM
+Review clusters (mit deutschem Bier (Bitburger is Andreas’s favorite))
+present in week 5
